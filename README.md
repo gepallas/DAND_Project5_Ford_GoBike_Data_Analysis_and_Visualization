@@ -42,7 +42,7 @@ The next Figure shows daily number of trips by hour of the day by user type.
 It is clearly shown in this slide that Subscribers are mostly travelling during the week and rush hours, from 8:00 to 9:00 and from 17:00 to 18:00, most likely commuting to/from work. Customers are mostly travelling on Saturdays, followed by the other days of the week, with an increasing trend from the morning, about 8:00, to the evening hours, about 18:00.
 *Also notice: the scale of the number of trips from subscribers is one order of magnitude higher compared customers*
 
-In the following graph the busiest stations by number of trips by user type is presented.
+In the following graph, the busiest stations by number of trips by user type are presented.
 
 <p align="center">
   <img src="https://github.com/gepallas/DAND_Project5_Ford_GoBike_Data_Analysis_and_Visualization/blob/master/images/image3.png?raw=true" />
